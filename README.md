@@ -1,5 +1,9 @@
 # 🎬 Movie Booking System
 
+URL: 
+https://movbooking.ddns.net/
+https://movbooking.ddns.net/admin/login
+
 A group project for building an online movie ticket booking system.  
 Developed by:
 - **PM**: Allan  
